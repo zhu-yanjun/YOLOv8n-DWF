@@ -1,0 +1,11 @@
+# dataset path
+train: E:/ZYJ/yolov8/ultralytics-main/datasets/dataset/images/train
+val: E:/ZYJ/yolov8/ultralyti
+test: E:/ZYJ/yolov8/ultralytics-main/datasets/dataset/images/test
+
+
+# number of classes
+nc: 2
+
+# class names
+names: ['grape', 'axis']
